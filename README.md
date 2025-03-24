@@ -22,14 +22,14 @@ Welcome to my GitHub profile! Hi, I'm Vishal Tikoti A passionate tech enthusiast
 - *Description:* Designed a smart helmet system that monitors hazardous conditions in coal mines using sensors and provides real-time alerts to ensure worker safety.
 - *Technologies Used:* Arduino Uno, MQ7 sensor, MQ2 sensor, DHT11 sensor, I2C 16x2 LCD display, TP4056 module, two 3.7V batteries, buzzer, mini breadboard, jumper wires, and Arduino IDE for coding.
 - *Repository:* 
-- *video:* 
+- *video:* https://drive.google.com/file/d/17HiXGmPN9LRRvIIZrIq9pmWlhjZhGDqS/view?usp=drive_link
 
 ### Temperature-Based Fan Speed Control Using Arduino
 
 - *Description:* Built an automated fan control system that adjusts speed based on room temperature, improving energy efficiency and user comfort.
 - *Technologies Used:* Arduino Uno, LM35 Temperature sensor, I2C 16x2 LCD display, DC fan, transistor, capacitor, resistor, 1N4007 diode, connecting wires, 12V power supply.
 - *Repository:* [Link to the repository](#)
-- *video:* 
+- *video:* https://drive.google.com/file/d/1NxVFKSjqGGlgf9IoO_sBKx6hQbUjMqxx/view?usp=drive_link
 
 ## Contact
 
